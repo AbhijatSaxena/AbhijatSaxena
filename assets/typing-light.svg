@@ -5,22 +5,22 @@
     @keyframes cyc{0%{opacity:0}1%{opacity:1}24%{opacity:1}25%{opacity:0}100%{opacity:0}}
     .caret{animation:blink 1.06s steps(1) infinite}
     @keyframes blink{50%{opacity:0}}
-    text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:36px;fill:#1f2328}
+    text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:36px;fill:#2a1c07}
   </style>
   <g class="ph p0">
-    <text x="450" y="56" text-anchor="middle">$ I build full-stack products.</text>
-    <rect class="caret" x="774" y="24" width="18" height="38" fill="#0969da"/>
+    <text x="450" y="56" text-anchor="middle" textLength="600" lengthAdjust="spacing">$ I build full-stack products.</text>
+    <rect class="caret" x="755" y="28" width="14" height="28" fill="#b26a12"/>
   </g>
   <g class="ph p1">
-    <text x="450" y="56" text-anchor="middle">$ I publish MCP servers.</text>
-    <rect class="caret" x="709" y="24" width="18" height="38" fill="#0969da"/>
+    <text x="450" y="56" text-anchor="middle" textLength="480" lengthAdjust="spacing">$ I publish MCP servers.</text>
+    <rect class="caret" x="695" y="28" width="14" height="28" fill="#b26a12"/>
   </g>
   <g class="ph p2">
-    <text x="450" y="56" text-anchor="middle">$ I make closed hardware scriptable.</text>
-    <rect class="caret" x="839" y="24" width="18" height="38" fill="#0969da"/>
+    <text x="450" y="56" text-anchor="middle" textLength="720" lengthAdjust="spacing">$ I make closed hardware scriptable.</text>
+    <rect class="caret" x="815" y="28" width="14" height="28" fill="#b26a12"/>
   </g>
   <g class="ph p3">
-    <text x="450" y="56" text-anchor="middle">$ I automate my own life.</text>
-    <rect class="caret" x="720" y="24" width="18" height="38" fill="#0969da"/>
+    <text x="450" y="56" text-anchor="middle" textLength="600" lengthAdjust="spacing">$ I build what I wish existed.</text>
+    <rect class="caret" x="755" y="28" width="14" height="28" fill="#b26a12"/>
   </g>
 </svg>
