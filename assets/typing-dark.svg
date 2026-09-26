@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-label="typing animation">
   <style>
     .ph{opacity:0;animation:cyc 12s infinite}
-    .p0{animation-delay:0s}.p1{animation-delay:-9s}.p2{animation-delay:-6s}.p3{animation-delay:-3s}
-    @keyframes cyc{0%{opacity:0}2%{opacity:1}21%{opacity:1}25%{opacity:0}100%{opacity:0}}
+    .p0{opacity:1;animation-delay:0s}.p1{animation-delay:-9s}.p2{animation-delay:-6s}.p3{animation-delay:-3s}
+    @keyframes cyc{0%{opacity:0}1%{opacity:1}24%{opacity:1}25%{opacity:0}100%{opacity:0}}
     .caret{animation:blink 1.06s steps(1) infinite}
     @keyframes blink{50%{opacity:0}}
     text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:36px;fill:#e6edf3}
