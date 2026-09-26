@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/hero-dark.svg#gh-dark-mode-only" alt="Abhijat Saxena" />
-  <img src="assets/hero-light.svg#gh-light-mode-only" alt="Abhijat Saxena" />
+  <img src="assets/hero.svg" alt="Abhijat Saxena" />
 </p>
 
 <p align="center">
