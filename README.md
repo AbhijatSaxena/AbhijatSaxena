@@ -1,4 +1,7 @@
-![Abhijat Saxena](assets/hero.svg)
+<p align="center">
+  <img src="assets/hero-dark.svg#gh-dark-mode-only" alt="Abhijat Saxena" />
+  <img src="assets/hero-light.svg#gh-light-mode-only" alt="Abhijat Saxena" />
+</p>
 
 <p align="center">
   <img src="assets/typing-dark.svg#gh-dark-mode-only" alt="typing animation" />
