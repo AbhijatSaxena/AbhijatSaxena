@@ -5,22 +5,23 @@
     @keyframes cyc{0%{opacity:0}1%{opacity:1}24%{opacity:1}25%{opacity:0}100%{opacity:0}}
     .caret{animation:blink 1.06s steps(1) infinite}
     @keyframes blink{50%{opacity:0}}
-    text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:36px;fill:#f7e8cd}
+    text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:36px;fill:#ffe2b0}
+    .pr{fill:#ffa63c}
   </style>
   <g class="ph p0">
-    <text x="450" y="56" text-anchor="middle" textLength="600" lengthAdjust="spacing">$ I build full-stack products.</text>
-    <rect class="caret" x="755" y="28" width="14" height="28" fill="#f5a02c"/>
+    <text x="450" y="56" text-anchor="middle" textLength="600" lengthAdjust="spacing"><tspan class="pr">$</tspan> I build full-stack products.</text>
+    <rect class="caret" x="755" y="28" width="14" height="28" fill="#ffa63c"/>
   </g>
   <g class="ph p1">
-    <text x="450" y="56" text-anchor="middle" textLength="480" lengthAdjust="spacing">$ I publish MCP servers.</text>
-    <rect class="caret" x="695" y="28" width="14" height="28" fill="#f5a02c"/>
+    <text x="450" y="56" text-anchor="middle" textLength="480" lengthAdjust="spacing"><tspan class="pr">$</tspan> I publish MCP servers.</text>
+    <rect class="caret" x="695" y="28" width="14" height="28" fill="#ffa63c"/>
   </g>
   <g class="ph p2">
-    <text x="450" y="56" text-anchor="middle" textLength="720" lengthAdjust="spacing">$ I make closed hardware scriptable.</text>
-    <rect class="caret" x="815" y="28" width="14" height="28" fill="#f5a02c"/>
+    <text x="450" y="56" text-anchor="middle" textLength="720" lengthAdjust="spacing"><tspan class="pr">$</tspan> I make closed hardware scriptable.</text>
+    <rect class="caret" x="815" y="28" width="14" height="28" fill="#ffa63c"/>
   </g>
   <g class="ph p3">
-    <text x="450" y="56" text-anchor="middle" textLength="600" lengthAdjust="spacing">$ I build what I wish existed.</text>
-    <rect class="caret" x="755" y="28" width="14" height="28" fill="#f5a02c"/>
+    <text x="450" y="56" text-anchor="middle" textLength="600" lengthAdjust="spacing"><tspan class="pr">$</tspan> I build what I wish existed.</text>
+    <rect class="caret" x="755" y="28" width="14" height="28" fill="#ffa63c"/>
   </g>
 </svg>
